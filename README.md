@@ -125,7 +125,6 @@ Why do the <code>count()</code> for <code>id</code> and <code>market_cap_usd</co
   🔷 Most coins are tiny
 
   <p>Note that many coins are not comparable to large companies in market cap, so let's divert from the original Investopedia definition by merging categories.</p>
-<p><em>This is all for now. Thanks for completing this project!</em></p>
 
 
  <p align="center">
